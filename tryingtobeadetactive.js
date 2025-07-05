@@ -118,14 +118,13 @@ if (window.location.origin !== "https://www.instagram.com") {
   
     return {
       followingUsernames,
-      //PeopleIDontFollowBack,
-      //PeopleNotFollowingMeBack,
+      PeopleIDontFollowBack,
+      PeopleNotFollowingMeBack,
       followersUsernames,
     };
   };
   
 
   username = "worajai_";
-  //chutipim_.13
 
   getUserFriendshipStats(username).then(console.log);

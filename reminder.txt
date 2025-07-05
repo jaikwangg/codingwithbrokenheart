@@ -1,0 +1,2 @@
+now can collect data but cant get all 
+solution 1. recollect and check diff data then create new dataset and repeat but api req is to much and its will blocked
